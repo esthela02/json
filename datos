@@ -1,0 +1,27 @@
+{
+
+"estudiantes":  [
+{"id":1,"Nombre":"Guadalupe", "Apellido": "Astudillo","edad":"19","carrera": "des.software"},
+{"id":2,"Nombre":"jose", "Apellido": "campoverde","edad":"19","carrera": "des.software"},
+{"id":3,"Nombre":"lorena", "Apellido": "Dutan","edad":"20","carrera": "des.software"},
+{"id":4,"Nombre":"Geovanny", "Apellido": "Herrera","edad":"19","carrera": "des.software"},
+{"id":5,"Nombre":"Freddy", "Apellido": "Herrera","edad":"19","carrera": "des.software"},
+{"id":6,"Nombre":"bryan", "Apellido": "romero","edad":"19","carrera": "des.software"},
+{"id":7,"Nombre":"agustin", "Apellido": "ortega","edad":"22","carrera": "des.software"},
+{"id":8,"Nombre":"mishell", "Apellido": "peñafiel","edad":"18","carrera": "des.software"},
+{"id":9,"Nombre":"erick", "Apellido": "peralta","edad":"19","carrera": "des.software"},
+{"id":10,"Nombre":"jhonatan", "Apellido": "peralta","edad":"20","carrera": "des.software"},
+{"id":11,"Nombre":"mercy", "Apellido": "sumba","edad":"19","carrera": "des.software"},
+{"id":12,"Nombre":"jaime", "Apellido": "sumba","edad":"24","carrera": "des.software"},
+{"id":13,"Nombre":"jefersson", "Apellido": "trelles","edad":"26","carrera": "des.software"},
+    ]
+    "Profesores":[
+    {"id":"1","nombre":"Cristina", "apellido":"cuenca","profesion":"ingeniera", "edad":"39"},
+    {"id":"2","nombre":"mauricio", "apellido":"palomino","profesion":"ingeniero", "edad":"39"},
+    {"id":"3","nombre":"juan pablo", "apellido":"araujo","profesion":"ingeniero", "edad":"31"},
+    {"id":"4","nombre":"adrian", "apellido":"guzman","profesion":"ingeniero", "edad":"45"},
+    {"id":"5","nombre":"javier", "apellido":"romero","profesion":"ingeniero", "edad":"38"},
+    {"id":"6","nombre":"alexandra", "apellido":"molina","profesion":"licenciada", "edad":"26"},
+   
+    ]
+ }   
